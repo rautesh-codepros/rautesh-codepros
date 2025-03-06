@@ -17,10 +17,10 @@ I specialize in **JavaScript**, with a strong focus on **React.js** for building
 - Occasionally dive into backend development with Django and Node.js.
 
 ### 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 🌐 [Portfolio](https://yourportfolio.com)
-- ✉️ [Email](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rautesh)
+- 🐦 [Twitter](https://twitter.com/metheraut)
+- 🌐 [Portfolio](https://niteshraut.com.np)
+- ✉️ [Email](mailto:rautesh6@gmail.com)
 
 ### ⚡ Fun Fact
 I started working with Python (Django) as a "toddler" in programming but found my true passion in React.js and its ecosystem! 😄
